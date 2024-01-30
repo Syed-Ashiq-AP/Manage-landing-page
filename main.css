@@ -431,6 +431,22 @@ input{
     color: hsl(12, 88%, 59%);
 }
 
+.mav-tab{
+    display: none;
+}
+
+.mb-nav-bar{
+    display: none;
+}
+
+.classy-n h3{
+    display: none;
+}
+
+.foot-l p{
+    display: none;
+}
+
 @media (width < 500px){
 
     body,html{
